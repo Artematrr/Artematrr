@@ -1,4 +1,5 @@
-I’m @Artematrr, super newbie on Github. Learning Python.
+# Super newbie on Github. 
+I'm Learning Python.
 I don't know what's going on here.
 
 Some of my contacts: 
