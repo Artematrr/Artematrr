@@ -1,6 +1,4 @@
-# Newbie on Github.
-
-# Жесть.
+# Newbie on Github. (жесть)
 
 
 <!--
