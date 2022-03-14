@@ -1,4 +1,4 @@
-# New (вау)
+# Learning something. Doing something
 
 
 <!--
