@@ -1,5 +1,5 @@
 # Learning Python, HTML & CSS
-_I hope github continues to work_
+_I surely will survive_
 
 <!--
 Some of my contacts: 
